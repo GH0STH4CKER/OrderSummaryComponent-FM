@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/order-summary-card-solution-htmlcss-OHRwtPZdyO))
 - Live Site URL: [Live site URL]([https://your-live-site-url.com](https://gh0sth4cker.github.io/OrderSummaryComponent-FM/))
 
 ### Built with
