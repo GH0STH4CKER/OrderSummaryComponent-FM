@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/order-summary-card-solution-htmlcss-OHRwtPZdyO))
-- Live Site URL: [Live site URL]([https://your-live-site-url.com](https://gh0sth4cker.github.io/OrderSummaryComponent-FM/))
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/order-summary-card-solution-htmlcss-OHRwtPZdyO)
+- Live Site URL: [Live site URL](https://gh0sth4cker.github.io/OrderSummaryComponent-FM/)
 
 ### Built with
 
@@ -34,5 +34,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@GH0STH4CKER]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/GH0STH4CKER)
+- Frontend Mentor - [@GH0STH4CKER](https://www.frontendmentor.io/profile/GH0STH4CKER)
 
